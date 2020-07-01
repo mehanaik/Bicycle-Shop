@@ -1,4 +1,4 @@
-# Bicycle-Shop
+# Bicycle-Shop: https://bicycleshop9.wordpress.com
 A wordpress project
 Worpress webcite for this project:
 https://bicycleshop9.wordpress.com
