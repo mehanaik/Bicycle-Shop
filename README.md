@@ -1,6 +1,6 @@
 # Bicycle-Shop: https://bicycleshop9.wordpress.com
 A wordpress project
-Worpress webcite for this project:
+Worpress website for this project:
 https://bicycleshop9.wordpress.com
 
 This is a wordpress website made for the love of bicycles.
